@@ -1,0 +1,5 @@
+C:\Users\Henry\OneDrive\Documentos\SharpDevelop Projects\InstutoHospitalario\InstutoHospitalario\bin\Debug\InstutoHospitalario.exe
+C:\Users\Henry\OneDrive\Documentos\SharpDevelop Projects\InstutoHospitalario\InstutoHospitalario\bin\Debug\InstutoHospitalario.pdb
+C:\Users\Henry\OneDrive\Documentos\SharpDevelop Projects\InstutoHospitalario\InstutoHospitalario\obj\Debug\InstutoHospitalario.csprojResolveAssemblyReference.cache
+C:\Users\Henry\OneDrive\Documentos\SharpDevelop Projects\InstutoHospitalario\InstutoHospitalario\obj\Debug\InstutoHospitalario.exe
+C:\Users\Henry\OneDrive\Documentos\SharpDevelop Projects\InstutoHospitalario\InstutoHospitalario\obj\Debug\InstutoHospitalario.pdb
